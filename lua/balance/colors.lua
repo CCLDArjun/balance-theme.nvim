@@ -25,7 +25,7 @@ local color = {
   indigo     = '#2e00c9',
   purple     = '#a300f4',
 
-  purewhite  = '#ffffff',
+  purewhite  = '#efefef',
   white      = '#efefef',
   offwhite   = '#dedede',
   lightgrey  = '#d3d3d3',
